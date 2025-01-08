@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS e Javascript
 - 💬 Me chame no email: pedro.b1tencourt2801@gmail.com 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p3drobitencourt&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3droBitencourt000&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
